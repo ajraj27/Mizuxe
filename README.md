@@ -23,10 +23,10 @@ This is a single page theme called Mizuxe using Bootstrap 4 Beta.It uses the lat
 
 <hr>
 
-<img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/showcase.png" />
-<img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/about.png" />
-<img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/authors.png" />
-<img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/contact.png" />
+<img src="https://github.com/ajraj27/Mizuxe/blob/master/src/screenshots/showcase.png" />
+<img src="https://github.com/ajraj27/Mizuxe/blob/master/src/screenshots/about.png" />
+<img src="https://github.com/ajraj27/Mizuxe/blob/master/src/screenshots/authors.png" />
+<img src="https://github.com/ajraj27/Mizuxe/blob/master/src/screenshots/contact.png" />
 
 
 <h4>Collapse button for smaller screens.
