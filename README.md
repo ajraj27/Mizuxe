@@ -31,4 +31,4 @@ This is a single page theme called Mizuxe using Bootstrap 4 Beta.It uses the lat
 
 <h4>Collapse button for smaller screens.
 
-<img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/collapse.png" />
+<img src="https://github.com/ajraj27/Mizuxe/blob/master/src/screenshots/collapse.png" />
