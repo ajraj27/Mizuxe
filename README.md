@@ -4,6 +4,8 @@ This is a single page theme called Mizuxe using Bootstrap 4 Beta.It uses the lat
 
 <hr>
 
+Check it on : https://ajraj27.github.io/Mizuxe/src/index.html
+
 ## Features:
 
 <li>Whole Theme is Responsive.</li>
